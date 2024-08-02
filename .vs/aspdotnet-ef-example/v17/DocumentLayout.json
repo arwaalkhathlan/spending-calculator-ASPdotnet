@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF0FF5D5-5BE5-4639-9595-E8431A42D16B}|aspdotnet-ef-example.csproj|c:\\users\\arwa1\\desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +41,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T15:51:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEQUAAAAAAAAAAAmwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-02T15:51:19.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,12 +83,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T07:13:00.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:13:00.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateEditExpense.cshtml",
               "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\CreateEditExpense.cshtml",
@@ -63,12 +95,11 @@
               "RelativeToolTip": "Views\\Home\\CreateEditExpense.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T07:00:49.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:00:49.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -76,12 +107,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAkwCUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T06:52:35.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T06:52:35.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
@@ -94,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ExpensesDbContext.cs",
               "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Models\\ExpensesDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ExpensesDbContext.cs",
@@ -102,12 +132,11 @@
               "RelativeToolTip": "Models\\ExpensesDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:22:24.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T06:22:24.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arwa1\\Desktop\\vs_projects\\dotnet\\aspdotnet-ef-example\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -115,8 +144,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:21:57.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T06:21:57.93Z"
             }
           ]
         }

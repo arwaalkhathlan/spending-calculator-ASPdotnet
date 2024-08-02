@@ -33,3 +33,4 @@ C:\Users\arwa1\Desktop\vs_projects\dotnet\aspdotnet-ef-example\bin\Debug\net8.0\
 C:\Users\arwa1\Desktop\vs_projects\dotnet\aspdotnet-ef-example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\arwa1\Desktop\vs_projects\dotnet\aspdotnet-ef-example\obj\Debug\net8.0\aspdotnet-ef-example.csproj.AssemblyReference.cache
 C:\Users\arwa1\Desktop\vs_projects\dotnet\aspdotnet-ef-example\obj\Debug\net8.0\aspdotne.04E51D21.Up2Date
+C:\Users\arwa1\Desktop\vs_projects\dotnet\aspdotnet-ef-example\obj\Debug\net8.0\aspdotnet-ef-example.sourcelink.json
